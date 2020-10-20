@@ -5,6 +5,12 @@
 Implement function `check(str, bracketsConfig)`, that for given brackets sequence will return `true` if it is correct and `false` otherwise
 
 In the second param there is `bracketsConfig` - the array of pairs open-closed brackets. Each subarray includes only 2 elements - opening and closing bracket
+------------------------------------------------------
+
+Реализуйте функцию `check (str, bracketsConfig)`, которая для данной последовательности скобок будет возвращать `true`, если она верна, и` false` в противном случае.
+
+Во втором параметре есть `bracketsConfig` - массив пар открытых-закрытых скобок. Каждый подмассив включает всего 2 элемента - открывающую и закрывающую скобки.
+------------------------------------------------------
 
 ```js
 check('()', [['(', ')']]) // -> true
